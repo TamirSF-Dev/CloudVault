@@ -1,6 +1,7 @@
 A cloud-powered web application that allows users to upload, view, and manage PDF notes securely. Built using React for the frontend and Firebase for backend services including Authentication, Storage, and Firestore Database.
 
 🚀 Features
+
 🔐 User Authentication – Secure login/signup using Firebase Auth
 
 📤 PDF Upload – Upload PDF files to Firebase Storage
